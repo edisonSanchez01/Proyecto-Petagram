@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="prev_name">Matias</string>
+    <string name="prev_qualification">5</string>
+    <string name="mascot01">Rito y Risitos</string>
+    <string name="mascot02">Manchas y Domino</string>
+    <string name="mascot03">Matias</string>
+    <string name="mascot04">Lupita</string>
+    <string name="mascot05">Killer y Tifanny</string>
+    <string name="mascot06">Hanna, Mirando y Rodrigo</string>
+    <string name="mascot07">Paco</string>
+    <string name="mascot08">Yaco</string>
+    <string name="mascot09">Pirulo</string>
+    <string name="mascot10">Destructor</string>
+    <string name="top_5">Top 5</string>
+
+</resources>
